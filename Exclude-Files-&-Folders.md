@@ -1,0 +1,1 @@
+you can specify files or directories that you'd like to exclude from rending using configuration
