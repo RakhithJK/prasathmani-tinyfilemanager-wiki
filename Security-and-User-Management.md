@@ -1,4 +1,4 @@
-# Security and User Management
+# Grant privileges to wanted users only
 Since the TinyFileManager is able to manipulate files on your server, it is necessary to secure safely your application.
 
 ## Configuration
