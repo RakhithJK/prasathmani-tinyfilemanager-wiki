@@ -1,4 +1,4 @@
-# Welcome to the TinyFileManager wiki!
+# Setup TinyFileManager
 
 This documentation is to help you regarding each step of Installation. Please go through the documentation carefully to understand how this is made and how to configure this properly. Basic PHP knowledge is required to customize this Application. You may learn basics [here](http://www.w3schools.com/).
 
