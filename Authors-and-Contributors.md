@@ -27,4 +27,4 @@
 * Thai : [Wan](https://github.com/mrwan200)
 * Spanish : [Joaquín](https://github.com/jopiortiz)
 
-if you think your name should be there, [contact us!](mailto:ccpprogrammers@gmail.com?subject=[GitHub])
+if you think your name should be there, [contact us!](mailto:ccpprogrammers@gmail.com)
