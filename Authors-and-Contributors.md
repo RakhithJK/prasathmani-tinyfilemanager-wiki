@@ -26,5 +26,6 @@
 * Russian : [Prasath Mani](https://github.com/prasathmani)
 * Thai : [Wan](https://github.com/mrwan200)
 * Spanish : [Joaquín](https://github.com/jopiortiz)
+* Slovak : [Jakub ADAMEC](https://github.com/jadamec)
 
 if you think your name should be there, [contact us!](mailto:ccpprogrammers@gmail.com)
