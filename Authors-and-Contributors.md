@@ -1,8 +1,9 @@
 ### Authors
 * [Prasath Mani](https://github.com/prasathmani)
 ### Security
-* [Jorge Morgado](https://github.com/jorgemorgado) discovered a security [issue](https://github.com/prasathmani/tinyfilemanager/issues/270)
-* [hhc0null](https://github.com/hhc0null) discovered a security [issue](https://github.com/prasathmani/tinyfilemanager/issues/123)
+* [Jorge Morgado](https://github.com/jorgemorgado) reported a security [issue](https://github.com/prasathmani/tinyfilemanager/issues/270)
+* [hhc0null](https://github.com/hhc0null) reported a security [issue](https://github.com/prasathmani/tinyfilemanager/issues/123)
+* [Michele Di Bonaventura](https://www.quantumleap.it/author/mdibonaventura/) reported a security [issue](https://www.quantumleap.it/tiny-file-manager-path-traversal-recursive-directory-listing-and-absolute-path-file-backup-copy/)
 
 ### Translation
 
@@ -27,5 +28,7 @@
 * Thai : [Wan](https://github.com/mrwan200)
 * Spanish : [Joaquín](https://github.com/jopiortiz)
 * Slovak : [Jakub ADAMEC](https://github.com/jadamec)
+* Korean : [Shoyu Vanilla](https://github.com/ShoyuVanilla)
+* Japanese : [Rinoshiyo](https://github.com/rinoshiyo)
 
 if you think your name should be there, [contact us!](mailto:ccpprogrammers@gmail.com)
