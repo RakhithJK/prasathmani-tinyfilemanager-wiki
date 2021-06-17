@@ -31,4 +31,4 @@
 * Korean : [Shoyu Vanilla](https://github.com/ShoyuVanilla)
 * Japanese : [Rinoshiyo](https://github.com/rinoshiyo)
 
-if you think your name should be there, [contact us!](mailto:ccpprogrammers@gmail.com)
+if you think your name should be there, [contact us!](mailto:prasath@ccpprogrammers.in)
