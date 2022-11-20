@@ -10,6 +10,6 @@
 * `$edit_files` - default is `true`; Enable ace.js (https://ace.c9.io/) on view's page
 * `$sticky_navbar` - default is `true`; Enable/Disable fixed navigation top bar
 * `$online_viewer` - default is `'google'`; Available rules are `'google'`, `'microsoft'` or `false`
-* `$favicon_path` - default is `'?img=favicon'` This can be either a full URL to an .PNG image, or a path based on the document root.
-* `MAX_UPLOAD_SIZE` - default is `2048`.
+* `$favicon_path` - default is empty, This can be either a full URL to an .PNG image, or a path based on the document root.
+* `MAX_UPLOAD_SIZE` - default is `10GB`.
 * `$ip_ruleset` - default is `OFF`.
