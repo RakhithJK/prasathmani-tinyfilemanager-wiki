@@ -28,7 +28,7 @@ $auth_users = array(
 ## Password
  Password is encrypted with password_hash(). to generate new password hash [here](https://tinyfilemanager.github.io/docs/pwd.html)
 
-If not able to generate password or facing any issue, than generate password using tinyfilemanager itsef on `tinyfilemanager > Help > Generate new password hash` or alternative password generator [here](http://www.passwordtool.hu/php5-password-hash-generator)
+If not able to generate password or facing any issue, than generate password using tinyfilemanager itsef on `tinyfilemanager > Help > Generate new password hash` or alternative password generator [here](https://phppasswordhash.com/)
 
 or you can use directly set password hash using `password_hash()` method
 ```php
